@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'Pentameter Regular';
+    src: url(fonts/Pentameter-Wide-Regular-Trial.woff);
+}
+
+@font-face {
+    font-family: 'Pentameter Light';
+    src: url(fonts/Pentameter-Wide-Light-Trial.woff);
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Light';
+    src: url(fonts/HelveticaNeue-Light.woff);
+    src: url(fonts/HelveticaNeue-Light.woff2);
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Bold';
+    src: url(fonts/HelveticaNeue-Bold.woff);
+    src: url(fonts/HelveticaNeue-Bold.woff2);
+}
+
+@font-face {
+    font-family: 'Helvetica Neue Medium';
+    src: url(fonts/HelveticaNeue-Medium.woff);
+    src: url(fonts/HelveticaNeue-Medium.woff2);
+}
+
+body {
+    font-family: 'Helvetica Neue Light';
+    width: 600px;
+    margin: auto;
+}
+
+header{
+    padding-top: 100px;
+}
+
+h1{
+    font-family: Pentameter Regular;
+    margin: 0;
+}
+
+hr{
+    border-top: 1px black solid;
+}
+
+.main {
+    padding-top: 50px;
+}
+
+.post {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px 0px;
+}
+
+p{
+    margin: 0;
+}
+
+.date {
+    font-size: 12px;
+}
+
+a {
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+.main-writing p {
+    padding: 10px 0px;
+}
+
+.post-nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+#home{
+    text-align: right;
+}
+
+@media only screen and (max-width: 600px) {
+    body{
+        width: 80%;
+    }
+
+    header{
+        padding-top: 50px;
+    }
+}
