@@ -91,6 +91,10 @@ a:visited{
     width: 50px;
 }
 
+.appear{
+    display: none;
+}
+
 @media only screen and (max-width: 600px) {
     body{
         width: 90%;
