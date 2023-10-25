@@ -28,8 +28,8 @@
 
 body {
     font-family: 'Helvetica Neue Light';
-    width: 500px;
-    line-height: 1.5em;
+    width: 600px;
+    line-height: 1.7em;
     margin: auto;
     background-color: #dfdfdf;
 }
@@ -59,7 +59,8 @@ hr{
 }
 
 p{
-    margin: 0;
+    margin: 20px 0px;
+    font-size: 1.2em;
 }
 
 .date {
