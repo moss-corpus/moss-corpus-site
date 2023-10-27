@@ -106,6 +106,7 @@ a:visited{
 .caption{
     font-size: .8rem;
     font-style: italic;
+    margin: 0px 0px 20px 0px;
 }
 
 @media only screen and (max-width: 600px) {
