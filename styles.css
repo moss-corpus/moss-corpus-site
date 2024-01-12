@@ -26,12 +26,18 @@
     src: url(fonts/HelveticaNeue-Medium.woff2);
 }
 
+
+@font-face {
+    font-family: 'times now';
+    src: url(fonts/TimesNow-Light.woff2);
+}
+
 body {
-    font-family: 'Helvetica Neue Light';
+    font-family: 'times now';
+    font-size: .75rem;
     width: 600px;
     line-height: 1.7em;
     margin: auto;
-    background-color: #dfdfdf;
 }
 
 header{
@@ -39,7 +45,8 @@ header{
 }
 
 h1{
-    font-family: Pentameter Regular;
+    font-family: 'times now';
+    font-size: 1.5rem;
     margin: 10px 0px;
     line-height: 1.2em;
 }
@@ -53,7 +60,7 @@ hr{
 }
 
 .post {
-    border: 1px solid black;
+    border-bottom: 1px solid black;
     padding: 20px;
     margin: 20px 0px;
 }
@@ -66,11 +73,12 @@ p{
 .date {
     font-size: 12px;
     margin: 10px 0px;
-    font-style: italic;
+    text-align: end;
 }
 
 a {
     color: black;
+    text-decoration: none;
 }
 
 a:visited{
