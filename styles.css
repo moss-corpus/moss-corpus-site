@@ -85,6 +85,10 @@ a:visited{
     color: black;
 }
 
+a:hover{
+    font-style: italic;
+}
+
 .main-writing p {
     padding: 5px 0px;
 }
