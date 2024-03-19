@@ -81,9 +81,9 @@ function initScene(containerId, modelPath) {
 }
 
 // Example usage for two different divs
-initScene('scene-container-1', '../public/clock.glb');
-initScene('scene-container-2', '../public/lamp.glb');
-initScene('scene-container-3', '../public/jewelry-box.glb');
-initScene('scene-container-4', '../public/plate.glb');
-initScene('scene-container-5', '../public/tripdych.glb');
-initScene('scene-container-6', '../public/book.glb');
+initScene('scene-container-1', 'public/clock.glb');
+initScene('scene-container-2', 'public/lamp.glb');
+initScene('scene-container-3', 'public/jewelry-box.glb');
+initScene('scene-container-4', 'public/plate.glb');
+initScene('scene-container-5', 'public/tripdych.glb');
+initScene('scene-container-6', 'public/book.glb');
