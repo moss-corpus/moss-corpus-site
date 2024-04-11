@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>the moss corpus</title>
+  <description></description>
+  <link>https://themosscorpus.net/</link>
+  <lastBuildDate>Thur, 28 Mar 2024 00:00:00 GMT</lastBuildDate>
+  <pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
+  <ttl>60</ttl>
+
+  <item>
+    <title>cake</title>
+    <description>2024 feels like a comforting number. The new year has felt like a cozy blanket made of soft cashmere draped over me. Which in turn has out me into a perpetual sleepy state all of the sudden. They say that when you are with someone and you start to feel sleepy around them, it means they feel safe to you. Maybe this is the same thing but with the new year. That, or maybe I am deficient in some nutrient or something.</description>
+    <link>https://themosscorpus.net/posts/cake.html</link>
+    <pubDate>Tue, 20 Feb 2024 12:00:00 GMT</pubDate>
+  </item>
+
+  <!-- <item>
+    <title>shifting form of gemini</title>
+    <description>It is an earthly aura of feeling atuned to one another. That stare. It is doe eyed and lightly glassed with sunken kindness. Laughing and relating... gathering. Hoping that you would be so courteous to go for a walk together.</description>
+    <link>https://themosscorpus.net/posts/shifting-form-of-gemini.html</link>
+    <pubDate>Fri, 27 Oct 2023 12:00:00 GMT</pubDate>
+  </item>
+
+   <item>
+    <title>i'm falling upright</title>
+    <description>The high pitched waves sing slowly from my eardrum through my nerves. Stopping under my cornia. Settling and dispersing into fuzzy noise. The pitch sinks in deeper and starts to divide...</description>
+    <link>https://themosscorpus.net/posts/im-falling-upright.html</link>
+    <pubDate>Thu, 16 Feb 2023 12:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <title>the corpus of moss</title>
+    <description>Today I embark into the ether into a deep black box of a writing practice. Deep black box adorned of Pandora's will. In other words, I am starting my formal writing practice...</description>
+    <link>https://themosscorpus.net/posts/the-corpus-of-moss.html</link>
+    <pubDate>Fri, 10 Feb 2023 12:00:00 GMT</pubDate>
+  </item> -->
+
+  <!-- Add more <item> elements for each blog post -->
+
+</channel>
+</rss>
